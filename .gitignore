@@ -1,0 +1,5 @@
+*.csv
+playground-series-s6e5/
+venv/
+__pycache__/
+.ipynb_checkpoints/
